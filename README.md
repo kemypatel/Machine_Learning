@@ -1,1 +1,1 @@
-Machine Learning Codes 
+Machine Learning Algorithms with Codes
